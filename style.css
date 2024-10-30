@@ -1,0 +1,41 @@
+body{
+background-image: url('/360_F_903292592_s9pGSxZ5FQcInxg9jUspmMMcLGMsfO3c.jpg');
+background-repeat: no-repeat;
+background-size: 100%;
+text-align: center;
+
+}
+
+input{
+
+width: 350px;
+height: 40px;
+border: 3px solid blue;
+border-radius: 10px;
+
+
+
+}
+
+h1{
+
+    color: blue;
+
+}
+.ali{
+    color:blue;
+
+}
+
+.salom{
+    background-image: url('/il_570xN.5037083236_7kwl.webp');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 400px;
+    height: 500px;
+    margin-top: 30px;
+margin-left: 725px;
+border-radius: 10px;
+
+
+}
